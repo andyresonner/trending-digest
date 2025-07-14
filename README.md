@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [farzaa/gemini-bball](https://github.com/farzaa/gemini-bball) – ⭐ 946
-2. [ZZZSimulator/ZSim](https://github.com/ZZZSimulator/ZSim) – ⭐ 541
-3. [awwaiid/gremllm](https://github.com/awwaiid/gremllm) – ⭐ 494
+1. [NVlabs/Long-RL](https://github.com/NVlabs/Long-RL) – ⭐ 393
+2. [Quentin-Anthony/torch-profiling-tutorial](https://github.com/Quentin-Anthony/torch-profiling-tutorial) – ⭐ 384
+3. [ComposioHQ/grok-cli](https://github.com/ComposioHQ/grok-cli) – ⭐ 271
 <!-- trending:end -->
