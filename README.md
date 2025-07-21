@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [NVlabs/Long-RL](https://github.com/NVlabs/Long-RL) – ⭐ 393
-2. [Quentin-Anthony/torch-profiling-tutorial](https://github.com/Quentin-Anthony/torch-profiling-tutorial) – ⭐ 384
-3. [ComposioHQ/grok-cli](https://github.com/ComposioHQ/grok-cli) – ⭐ 271
+1. [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy) – ⭐ 887
+2. [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor) – ⭐ 713
+3. [yyfz/Pi3](https://github.com/yyfz/Pi3) – ⭐ 425
 <!-- trending:end -->
