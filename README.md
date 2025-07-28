@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy) – ⭐ 887
-2. [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor) – ⭐ 713
-3. [yyfz/Pi3](https://github.com/yyfz/Pi3) – ⭐ 425
+1. [withneural/neuralagent](https://github.com/withneural/neuralagent) – ⭐ 290
+2. [scottvr/wtffmpeg](https://github.com/scottvr/wtffmpeg) – ⭐ 272
+3. [GakkiNoOne/hajimi-king](https://github.com/GakkiNoOne/hajimi-king) – ⭐ 188
 <!-- trending:end -->
