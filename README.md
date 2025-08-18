@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) – ⭐ 6,858
-2. [Chengsong-Huang/R-Zero](https://github.com/Chengsong-Huang/R-Zero) – ⭐ 292
-3. [changjonathanc/flex-nano-vllm](https://github.com/changjonathanc/flex-nano-vllm) – ⭐ 215
+1. [anthugeist/synapse-bot](https://github.com/anthugeist/synapse-bot) – ⭐ 587
+2. [WeChatCV/Stand-In](https://github.com/WeChatCV/Stand-In) – ⭐ 404
+3. [mingyin0312/RLFromScratch](https://github.com/mingyin0312/RLFromScratch) – ⭐ 389
 <!-- trending:end -->
