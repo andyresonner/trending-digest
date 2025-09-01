@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [karpathy/rendergit](https://github.com/karpathy/rendergit) – ⭐ 1,187
-2. [Growth-Kinetics/DiffMem](https://github.com/Growth-Kinetics/DiffMem) – ⭐ 490
-3. [CallToSta/TG-2025](https://github.com/CallToSta/TG-2025) – ⭐ 210
+1. [ox1nec/Pharos-Testnet-Bot](https://github.com/ox1nec/Pharos-Testnet-Bot) – ⭐ 409
+2. [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) – ⭐ 242
+3. [Nasogaa/immich-drop](https://github.com/Nasogaa/immich-drop) – ⭐ 230
 <!-- trending:end -->
