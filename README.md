@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [ox1nec/Pharos-Testnet-Bot](https://github.com/ox1nec/Pharos-Testnet-Bot) – ⭐ 409
-2. [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) – ⭐ 242
-3. [Nasogaa/immich-drop](https://github.com/Nasogaa/immich-drop) – ⭐ 230
+1. [Varietyz/Disciplined-AI-Software-Development](https://github.com/Varietyz/Disciplined-AI-Software-Development) – ⭐ 248
+2. [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) – ⭐ 236
+3. [pengzhangzhi/Open-dLLM](https://github.com/pengzhangzhi/Open-dLLM) – ⭐ 159
 <!-- trending:end -->
