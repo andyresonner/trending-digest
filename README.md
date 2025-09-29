@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) – ⭐ 1,101
-2. [XiaomiMiMo/MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio) – ⭐ 524
-3. [QwenLM/Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit) – ⭐ 452
+1. [apple/ml-simplefold](https://github.com/apple/ml-simplefold) – ⭐ 698
+2. [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) – ⭐ 671
+3. [Tencent-Hunyuan/Hunyuan3D-Omni](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni) – ⭐ 290
 <!-- trending:end -->
