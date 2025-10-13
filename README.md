@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [pathwaycom/bdh](https://github.com/pathwaycom/bdh) – ⭐ 2,434
-2. [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air) – ⭐ 649
-3. [LuoGen-AI/LuoGen-agent](https://github.com/LuoGen-AI/LuoGen-agent) – ⭐ 533
+1. [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) – ⭐ 3,871
+2. [simonw/claude-skills](https://github.com/simonw/claude-skills) – ⭐ 622
+3. [Uak0/crypto-tax-calculator](https://github.com/Uak0/crypto-tax-calculator) – ⭐ 595
 <!-- trending:end -->
