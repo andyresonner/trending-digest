@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [apple/pico-banana-400k](https://github.com/apple/pico-banana-400k) – ⭐ 924
-2. [Bogdanovich77/DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API) – ⭐ 693
-3. [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) – ⭐ 628
+1. [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) – ⭐ 988
+2. [oyokki/sora2-watermark-remover](https://github.com/oyokki/sora2-watermark-remover) – ⭐ 405
+3. [jun6ry/sora2-api](https://github.com/jun6ry/sora2-api) – ⭐ 367
 <!-- trending:end -->
