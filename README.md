@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) – ⭐ 1,159
-2. [rbalestr-lab/lejepa](https://github.com/rbalestr-lab/lejepa) – ⭐ 445
-3. [tagal6727/SelfDiscord](https://github.com/tagal6727/SelfDiscord) – ⭐ 274
+1. [karpathy/llm-council](https://github.com/karpathy/llm-council) – ⭐ 2,907
+2. [karpathy/reader3](https://github.com/karpathy/reader3) – ⭐ 2,021
+3. [Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) – ⭐ 693
 <!-- trending:end -->
