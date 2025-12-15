@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) – ⭐ 1,104
-2. [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) – ⭐ 655
-3. [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) – ⭐ 363
+1. [actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) – ⭐ 664
+2. [tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker) – ⭐ 604
+3. [zai-org/GLM-ASR](https://github.com/zai-org/GLM-ASR) – ⭐ 509
 <!-- trending:end -->
