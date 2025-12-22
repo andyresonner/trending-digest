@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) – ⭐ 664
-2. [tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker) – ⭐ 604
-3. [zai-org/GLM-ASR](https://github.com/zai-org/GLM-ASR) – ⭐ 509
+1. [agentskills/agentskills](https://github.com/agentskills/agentskills) – ⭐ 2,861
+2. [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) – ⭐ 1,271
+3. [MineDojo/NitroGen](https://github.com/MineDojo/NitroGen) – ⭐ 598
 <!-- trending:end -->
