@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [agentskills/agentskills](https://github.com/agentskills/agentskills) – ⭐ 2,861
-2. [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) – ⭐ 1,271
-3. [MineDojo/NitroGen](https://github.com/MineDojo/NitroGen) – ⭐ 598
+1. [parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2) – ⭐ 850
+2. [leedrake5/unredact](https://github.com/leedrake5/unredact) – ⭐ 456
+3. [FunAudioLLM/Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat) – ⭐ 449
 <!-- trending:end -->
