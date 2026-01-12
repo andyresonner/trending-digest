@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [IQuestLab/IQuest-Coder-V1](https://github.com/IQuestLab/IQuest-Coder-V1) – ⭐ 1,020
-2. [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) – ⭐ 957
-3. [Dimillian/Skills](https://github.com/Dimillian/Skills) – ⭐ 526
+1. [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) – ⭐ 907
+2. [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) – ⭐ 728
+3. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) – ⭐ 633
 <!-- trending:end -->
