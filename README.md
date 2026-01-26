@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [trailofbits/skills](https://github.com/trailofbits/skills) – ⭐ 1,342
-2. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) – ⭐ 591
-3. [zstmfhy/zlibrary-to-notebooklm](https://github.com/zstmfhy/zlibrary-to-notebooklm) – ⭐ 493
+1. [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) – ⭐ 4,554
+2. [terausss/polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot) – ⭐ 733
+3. [op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) – ⭐ 716
 <!-- trending:end -->
