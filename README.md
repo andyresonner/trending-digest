@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) – ⭐ 4,554
-2. [terausss/polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot) – ⭐ 733
-3. [op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) – ⭐ 716
+1. [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world) – ⭐ 1,893
+2. [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2) – ⭐ 1,861
+3. [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) – ⭐ 1,045
 <!-- trending:end -->
