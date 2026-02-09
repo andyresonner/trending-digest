@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world) – ⭐ 1,893
-2. [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2) – ⭐ 1,861
-3. [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) – ⭐ 1,045
+1. [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) – ⭐ 505
+2. [trumpet-noek/sora2-free-watermark-remover](https://github.com/trumpet-noek/sora2-free-watermark-remover) – ⭐ 391
+3. [ula7i921011/React2Shell-Scanner](https://github.com/ula7i921011/React2Shell-Scanner) – ⭐ 378
 <!-- trending:end -->
