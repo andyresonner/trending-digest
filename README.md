@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) – ⭐ 505
-2. [trumpet-noek/sora2-free-watermark-remover](https://github.com/trumpet-noek/sora2-free-watermark-remover) – ⭐ 391
-3. [ula7i921011/React2Shell-Scanner](https://github.com/ula7i921011/React2Shell-Scanner) – ⭐ 378
+1. [HKUDS/FastCode](https://github.com/HKUDS/FastCode) – ⭐ 688
+2. [aeromomo/claw-compactor](https://github.com/aeromomo/claw-compactor) – ⭐ 563
+3. [MooseGoose0701/skill-compose](https://github.com/MooseGoose0701/skill-compose) – ⭐ 370
 <!-- trending:end -->
