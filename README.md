@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter) – ⭐ 1,102
-2. [CraftyGeezer/Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot) – ⭐ 686
-3. [olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer) – ⭐ 551
+1. [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) – ⭐ 4,166
+2. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) – ⭐ 3,625
+3. [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) – ⭐ 2,049
 <!-- trending:end -->
