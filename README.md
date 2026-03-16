@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [karpathy/autoresearch](https://github.com/karpathy/autoresearch) – ⭐ 10,952
-2. [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) – ⭐ 2,443
-3. [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd) – ⭐ 720
+1. [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) – ⭐ 1,480
+2. [skernelx/tavily-key-generator](https://github.com/skernelx/tavily-key-generator) – ⭐ 1,016
+3. [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) – ⭐ 653
 <!-- trending:end -->
