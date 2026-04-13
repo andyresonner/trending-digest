@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) – ⭐ 5,679
-2. [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive) – ⭐ 5,163
-3. [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) – ⭐ 3,242
+1. [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) – ⭐ 1,762
+2. [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) – ⭐ 1,240
+3. [phuryn/claude-usage](https://github.com/phuryn/claude-usage) – ⭐ 884
 <!-- trending:end -->
