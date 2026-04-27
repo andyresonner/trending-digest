@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) – ⭐ 2,830
-2. [browser-use/browser-harness](https://github.com/browser-use/browser-harness) – ⭐ 2,803
-3. [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) – ⭐ 2,347
+1. [Einsia/OpenChronicle](https://github.com/Einsia/OpenChronicle) – ⭐ 1,506
+2. [deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels) – ⭐ 1,256
+3. [Russell-cell/PPT-Design-Prompt](https://github.com/Russell-cell/PPT-Design-Prompt) – ⭐ 785
 <!-- trending:end -->
