@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) – ⭐ 1,280
-2. [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) – ⭐ 1,014
-3. [ace-trump-tech/DeltaForce-OBS-Locker](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) – ⭐ 541
+1. [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) – ⭐ 983
+2. [rednote-hilab/dots.tts](https://github.com/rednote-hilab/dots.tts) – ⭐ 272
+3. [GordenSun/GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills) – ⭐ 227
 <!-- trending:end -->
