@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) – ⭐ 1,491
-2. [khrisat/text-humanizer](https://github.com/khrisat/text-humanizer) – ⭐ 607
-3. [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill) – ⭐ 603
+1. [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) – ⭐ 506
+2. [boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image) – ⭐ 440
+3. [raiyanyahya/recall](https://github.com/raiyanyahya/recall) – ⭐ 239
 <!-- trending:end -->
