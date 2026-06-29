@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) – ⭐ 506
-2. [boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image) – ⭐ 440
-3. [raiyanyahya/recall](https://github.com/raiyanyahya/recall) – ⭐ 239
+1. [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) – ⭐ 2,881
+2. [Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills) – ⭐ 398
+3. [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) – ⭐ 351
 <!-- trending:end -->
