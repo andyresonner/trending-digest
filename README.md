@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) – ⭐ 2,881
-2. [Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills) – ⭐ 398
-3. [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) – ⭐ 351
+1. [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) – ⭐ 1,130
+2. [jmerelnyc/Talos](https://github.com/jmerelnyc/Talos) – ⭐ 719
+3. [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava) – ⭐ 527
 <!-- trending:end -->
