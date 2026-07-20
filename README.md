@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) – ⭐ 981
-2. [vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) – ⭐ 759
-3. [Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video) – ⭐ 735
+1. [hoainho/img2threejs](https://github.com/hoainho/img2threejs) – ⭐ 684
+2. [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) – ⭐ 623
+3. [PengZhang64/circuit-framework](https://github.com/PengZhang64/circuit-framework) – ⭐ 486
 <!-- trending:end -->
