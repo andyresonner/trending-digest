@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) – ⭐ 14,485
-2. [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) – ⭐ 7,902
-3. [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) – ⭐ 2,863
+1. [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) – ⭐ 2,164
+2. [yukitorido/short-video-generator-AI](https://github.com/yukitorido/short-video-generator-AI) – ⭐ 730
+3. [feitangyuan/onetake](https://github.com/feitangyuan/onetake) – ⭐ 678
 <!-- trending:end -->
