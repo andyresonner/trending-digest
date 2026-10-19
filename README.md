@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) – ⭐ 3,335
-2. [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) – ⭐ 2,716
-3. [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) – ⭐ 894
+1. [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) – ⭐ 3,315
+2. [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) – ⭐ 1,248
+3. [Tencent-Hunyuan/Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory) – ⭐ 930
 <!-- trending:end -->
