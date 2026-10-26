@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) – ⭐ 3,315
-2. [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) – ⭐ 1,248
-3. [Tencent-Hunyuan/Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory) – ⭐ 930
+1. [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) – ⭐ 1,895
+2. [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) – ⭐ 1,820
+3. [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) – ⭐ 1,594
 <!-- trending:end -->
