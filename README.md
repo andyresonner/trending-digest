@@ -4,7 +4,7 @@ Weekly GitHub-Actions workflow that publishes a digest of the top-trending Pytho
 
 ## Top 3 Python repos this week
 <!-- trending:start -->
-1. [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) – ⭐ 1,895
-2. [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) – ⭐ 1,820
-3. [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) – ⭐ 1,594
+1. [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) – ⭐ 1,451
+2. [hyz317/HairDeck](https://github.com/hyz317/HairDeck) – ⭐ 727
+3. [ramenvr/autopilot](https://github.com/ramenvr/autopilot) – ⭐ 660
 <!-- trending:end -->
